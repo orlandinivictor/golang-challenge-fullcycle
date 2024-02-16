@@ -1,1 +1,1 @@
-Image in: https://hub.docker.com/repository/docker/orlandinivictor/golang-challenge/general
+Image name: orlandinivictor/golang-challenge
